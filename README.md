@@ -1,4 +1,4 @@
-##Experiencing `transition` and the `calc` - `CSS3`
-###Show part of the image and expand showing the full image and links if the event is hover
+##Testando `transition` and the `calc` - `CSS3`
+###Mostra parte da image e quando o mouse está em cima, expande mostrando o conteúdo completo
 Preview - http://www.marcelotorresweb.com/labs/experiencing-transition-and-the-calc-CSS3/
->Use the latest version of Google Chrome for best viewing results
+>Use a ultima versão do Google Chrome para melhor visualização
